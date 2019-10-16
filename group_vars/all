@@ -1,3 +1,4 @@
 ---
 
 message: dunno
+ntp_server: ntp1.example.com
